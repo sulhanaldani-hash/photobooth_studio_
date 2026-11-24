@@ -1,0 +1,9 @@
+{
+  "appId": "com.photobooth.studio",
+  "appName": "Photobooth Studio",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  }
+}
